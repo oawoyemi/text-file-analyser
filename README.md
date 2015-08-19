@@ -1,6 +1,6 @@
 # text-file-analyser
 
-usage - sbt "run <filepath>"
+usage - sbt "run {filepath}"
 
 e.g.
 
